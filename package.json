@@ -1,0 +1,16 @@
+{
+  "name": "rl-gulp-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ross Labardee",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "gulp": "^4",
+    "gulp-babel": "^8.0.0"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
